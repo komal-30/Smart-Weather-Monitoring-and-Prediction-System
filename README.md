@@ -1,4 +1,4 @@
-# 🌤️ Smart Weather Monitoring and Prediction System
+# 🌤️ WeatherSense - Smart Weather Monitoring and Prediction System
 
 An IoT-based intelligent weather monitoring system that collects real-time weather parameters using Arduino and IoT sensors, visualizes data on ThingSpeak, and performs predictive analysis using machine learning in Python.
 
